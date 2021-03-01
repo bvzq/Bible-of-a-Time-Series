@@ -1,5 +1,5 @@
 # Bible-of-a-Time-Series
-How to work, analyse and model Time series data, from beginners to experts
+How to work, analyse and model Time series data, from beginners to experts, with Python
 
 Here we have a repository in which we can learn a lot about Time Series, a statician field in continuous developement with a completely different view as compared with other techniques.
 
